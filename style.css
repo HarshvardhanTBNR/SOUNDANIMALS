@@ -1,0 +1,27 @@
+#content{
+    background-color: orange;
+    height:602px;
+    }
+    .a-n{
+    background-color: white;
+    }
+    #developed{
+        background-color: orangered;
+        color: palegreen;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size:21px;
+        line-height: 2;
+        text-shadow: 5px 5px 5px rgb(97, 91, 90);
+        }
+        
+        h2{
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+        }
+
+        #start{
+        box-shadow: 5px 5px 16px black;
+        }
